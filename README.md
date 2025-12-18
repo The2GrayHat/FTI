@@ -6,7 +6,7 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone []
+   git clone [https://github.com/The2GrayHat/XSProyect]
    cd XSProyect
 
 2. **instalar requerimientos**
