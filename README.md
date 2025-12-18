@@ -1,5 +1,9 @@
 # XSProyect'
 
+<p align="center">
+  <img src="./assets/ascii-art-text.png" alt="nada aqui" width="600">
+</p>
+
 1. **Clonar el repositorio:**
    ```bash
    git clone []
