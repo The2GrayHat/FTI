@@ -1,0 +1,6 @@
+colorama
+beautifulsoup4
+requests
+mpv
+yt-dlp
+telethon
