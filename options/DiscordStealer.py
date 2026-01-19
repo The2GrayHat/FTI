@@ -11,7 +11,7 @@ import requests
 
 # URL de la API de Discord para enviar un mensaje
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1234567890/abcdefghijklmnopqrstuvwxyz1234567890"
+DISCORD_WEBHOOK_URL = "tu api aqui"
 
 
 # Función para generar contraseñas aleatorias
