@@ -1,7 +1,7 @@
-# XSProyect'
+# FTI Proyect
 
 <p align="center">
-  <img src="./assets/ascii-art-text.png" alt="nada aqui" width="600">
+  <img src="./assets/ascii-art-text(1).png" alt="nada aqui" width="600">
 </p>
 
 1. **Clonar el repositorio:**
