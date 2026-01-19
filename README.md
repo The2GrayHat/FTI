@@ -6,9 +6,9 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/The2GrayHat/XSProyect
+   git clone https://github.com/The2GrayHat/FTI
    
-   cd XSProyect
+   cd FTI
 
 2. **instalar requerimientos**
    ```bash
@@ -16,4 +16,4 @@
 
 3. **ejecutar**
    ```bash
-   python XSPy.py
+   python FTI.py
