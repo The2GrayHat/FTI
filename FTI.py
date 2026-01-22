@@ -74,7 +74,7 @@ def listar_scripts():
 def mostrar_pagina(scripts, page):
     os.system('cls' if os.name == 'nt' else 'clear')
     print(BANNER)
-    print("=== XS MENU — Página {} ===\n".format(page + 1))
+    print("=== FTI MENU — Página {} ===\n".format(page + 1))
 
     total_pages = (len(scripts) - 1) // PAGE_SIZE + 1 if scripts else 1
     page_items = scripts[page * PAGE_SIZE: page * PAGE_SIZE + PAGE_SIZE]
