@@ -17,3 +17,5 @@
 3. **ejecutar**
    ```bash
    python FTI.py
+
+este clan antiguamente se llamaba XS, en memoria a Megamix266, mi antiguo yo.
